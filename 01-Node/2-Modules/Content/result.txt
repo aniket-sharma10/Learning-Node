@@ -1,0 +1,2 @@
+Overwrites previous(text if any) otherwise create a new file. This is combination of both files: Hello this is first text file, this is second text file
+This text will be appeded because of 'a' flag
